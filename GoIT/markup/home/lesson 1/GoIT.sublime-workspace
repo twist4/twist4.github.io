@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"back",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1045,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Iskander/Documents/twist4.github.io",
+		"/Users/Iskander/Documents/twist4.github.io/GoIT",
+		"/Users/Iskander/Documents/twist4.github.io/GoIT/markup",
+		"/Users/Iskander/Documents/twist4.github.io/GoIT/markup/home",
+		"/Users/Iskander/Documents/twist4.github.io/GoIT/markup/home/lesson 1"
+	],
+	"file_history":
+	[
+		"/Users/Iskander/Desktop/studio 101.webarchive",
+		"/Users/Iskander/Desktop/studio 101.html",
+		"/Users/Iskander/Documents/GoIT/index.html",
+		"/Users/Iskander/Documents/GoIT/README",
+		"/Users/Iskander/Documents/GoIT/css/style.css",
+		"/Users/Iskander/Documents/База Email - Iskander",
+		"/Users/Iskander/Downloads/Email_Base.txt",
+		"/Users/Iskander/Downloads/Email.txt",
+		"/Users/Iskander/Downloads/Spisok_email_dlya_rassylki.docx",
+		"/Users/Iskander/Downloads/Private_Emails_Base.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia1_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia2_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia3_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia4_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia5_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia6_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia7_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia8_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia9_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia10_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia11_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia12_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia13_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia14_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia15_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia16_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia17_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia18_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia19_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/968159 шт/Russia20_18159.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia1_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia2_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia3_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia4_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia5_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia6_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia7_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/368159 шт/Russia8_18159.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia1_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia2_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia3_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia4_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia5_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia6_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia7_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia8_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia9_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia10_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia11_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia12_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia14_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia15_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia16_18159.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2.099.636/763318 шт/Russia17_18159.txt",
+		"/Users/Iskander/Downloads/emails/torism.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia20_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia21_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia22_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia23_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia24_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia25_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia26_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia27_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia28_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia29_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia30_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia31_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia32_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia33_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia34_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia35_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia37_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia36_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia38_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia1/Russia39_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia20_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia21_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia22_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia23_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia24_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia25_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia26_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia27_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia28_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia29_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia30_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia31_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia32_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia33_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia34_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia35_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia36_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia37_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia38_50000.txt",
+		"/Users/Iskander/Downloads/mail Russia raznoe 4.099.636/russia_2000 000/Russia 2/Russia39_50000.txt",
+		"/Users/Iskander/Downloads/emails/export.txt",
+		"/Users/Iskander/Downloads/emails/fre.txt",
+		"/Users/Iskander/Downloads/emails/german.txt",
+		"/Users/Iskander/Downloads/emails/ital.txt",
+		"/Users/Iskander/Downloads/emails/american com-s.txt",
+		"/Users/Iskander/Downloads/emails/aus coms.txt",
+		"/Users/Iskander/Downloads/emails/british cos unchecked.txt",
+		"/Users/Iskander/Downloads/emails/canadias.txt",
+		"/Users/Iskander/Downloads/emails/dutch.txt",
+		"/Users/Iskander/Downloads/emails/22.txt",
+		"/Users/Iskander/Downloads/emails/1.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"andreyb@sns.ru"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1045,
+								1045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GoIT.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
