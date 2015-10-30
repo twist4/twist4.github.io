@@ -6,6 +6,16 @@ body {
 	background-color: #eeeeee;
 	margin: 4px;
 }
+li {
+	margin-bottom: 8px;
+}
+p {
+	text-align: left;
+	margin: 25px 0 35px 10px;
+}
+span {
+	display: block;
+}
 div.content {
 	width: 410px;
 	padding: 10px 50px 40px 50px;
@@ -16,13 +26,9 @@ div.content {
 	opacity: 0.9;
 	margin:0 auto;
 }
-li {
-	margin-bottom: 8px;
-}
-p {
-	text-align: left;
-	margin: 25px 0 35px 10px;
-}
 .foto, h3 { 
 	text-align:center; 
+}
+.hr-line{
+	border-top: solid 1px grey;
 }
