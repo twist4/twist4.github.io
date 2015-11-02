@@ -10,13 +10,14 @@ body{
 	background-image: url(../img/bg.jpg);
 	background-position: top;
 	background-repeat: no-repeat;
-	min-height: 615px;
+	min-width: 833px;
+	background-size: contain;
 }
 img{
     vertical-align: middle; /* Чтобы не добавлялось дополнительных 3px после изображения */
 }
 .wrapper{
-	margin: 55px auto;
+	margin: 35px auto;
 	width: 833px;
 }
 .clearfix:after{
