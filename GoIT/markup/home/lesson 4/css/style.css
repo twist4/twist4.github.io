@@ -22,13 +22,11 @@ p{
 }
 .wrapper{
 	margin: 0 auto;
-	width: 80%;
+	width: 1000px;
 	background-color: white;
 	-webkit-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
 	box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
-	min-width: 1050px;
-
 }
 .copyright{
 	margin: 10px 0;
@@ -71,6 +69,7 @@ p{
 }
 .flag img{
 	margin-bottom: 5px;
+	display: block;
 }
 .flag a{
 	display: block;
@@ -89,34 +88,46 @@ p{
 	width: 100%;
 }
 ul.nav{
-	background: url(../img/nav-bg.png) repeat-x;
 	list-style: none;
 	width: 100%;
 	position: relative;
 	z-index: 1;
+	background: url(../img/nav-bg.png) repeat-x;
 }
 ul.nav>li{
 	display: inline-block;
-	padding: 6px 0 10px 67px;
 	position: relative;
+}
+ul.nav>li>a{
+	padding-left: 65px;
+	line-height: 31px;
 }
 ul.nav a{
 	color: white;
 	text-decoration: none;
 }
+ul.nav ul+a:after{
+	content: '';
+	vertical-align: middle;
+	display: inline-block;
+	height: 6px;
+	width: 5px;
+	margin-left: 5px;
+	background-image: url(../img/v.png);
+}
 ul.sub-menu{
-	margin-top: 7px;
 	left: -5700000px;
 	list-style: none;
 	position: absolute;
 	width: 150px;
+	top: 100%;
 	background-color: #303030;
 	-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 }
 ul.nav>li:hover ul.sub-menu{
-	left: 57px;
+	left: 55px;
 }
 ul.sub-menu a{
 	padding: 5px 10px;
@@ -136,7 +147,7 @@ ul.sub-menu a:hover{
 	background: #edeef0;
 	float: left;
 	position: relative;
-	right: 58%;
+	right: 580px;
 	border-right: 1px solid #c7cacf;
 }
 .fon2 {
@@ -144,7 +155,7 @@ ul.sub-menu a:hover{
 	background: white;
 	float: left;
 	position: relative;
-	right: 21%;
+	right: 209px;
 	border-right: 1px solid #c7cacf;
 }
 .fon3 {
@@ -155,24 +166,24 @@ ul.sub-menu a:hover{
 	border-left: 1px solid #c7cacf;
 }
 .info {
-	width: 21%;
+	width: 209px;
 	float: left;
 	overflow: hidden; 
 	position: relative;
-	left: 79%;
+	left: 789px;
 }
 .center-col {
-	width: 58%;
+	width: 580px;
 	float: left;
 	overflow: hidden;
 	position: relative;
-	left: 79%;
+	left: 789px;
 }
 .news {
-	width: 21%;
+	width: 209px;
 	float: left;
 	overflow: hidden;
 	position: relative;
-	left: 79%;
+	left: 789px;
 }
 
